@@ -17,13 +17,13 @@ This is a fun little project for class.
 No special instructions! Clone and use at will. 
 
 ## Usage
-Have fun!
+Have fun! No need for attribution if using this project.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-No specific guidelines. 
+You are encouraged to contribute if you have suggestions. Please be descriptive in your comments, otherwise no specific guidelines.
 
 ## Tests
 Please be specific and detailed. 
